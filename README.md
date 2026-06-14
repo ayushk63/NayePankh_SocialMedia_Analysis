@@ -4,7 +4,7 @@ Analyzed Social Media Activity of Naye Pankh Foundation. Created Dashboard using
 
 **Tools Used :-** Power BI, Python, Apify
 
-!(./DashboardImage.png)
+![Dashboard](./DashboardImage.png)
 
 **Process :-** 
 
