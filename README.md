@@ -4,6 +4,8 @@ Analyzed Social Media Activity of Naye Pankh Foundation. Created Dashboard using
 
 **Tools Used :-** Power BI, Python, Apify
 
+!(./DashboardImage.png)
+
 **Process :-** 
 
 1.	Collected Data (followers, likes, comments and number of posts) from social media accounts of Naye Pankh Foundation. Collected data manually from LinkedIn, YouTube and X, and used Apify (free credits) to scrape data from Instagram and Facebook. Created dataset in Excel.
